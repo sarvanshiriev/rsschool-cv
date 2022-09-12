@@ -55,4 +55,4 @@ Gas and Oil Transporting.
 2021
 [HTML и CSS.](https://drive.google.com/file/d/1McteYe5-WWobmR0H6-LnHnhxDnTWXhbI/view)
 ====
-8. ENGLISH(понимаю несложную речь,могу рассказать о себе __(B1)__)
+8. ENGLISH(B1)
