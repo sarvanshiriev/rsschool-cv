@@ -1,8 +1,7 @@
 1. # __Sarvan Shiriev__
-##Мужчина, 30 лет, родился 20 октября 1991
 ====
 2. ##Contacts 
-*Тел: +7 (965) 5622511*
+*Tel: +7 (965) 5622511*
 
 *E-mail: sarvan.shiriev@mail.ru*
 
