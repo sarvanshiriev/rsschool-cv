@@ -46,13 +46,10 @@ Gas and Oil Transporting.
 1. HTML & CSS, Responsive website layout
 
 *Electronic certificates*
-
-2022
 [JavaScript.](https://drive.google.com/file/d/1R2HXA4vSTYVadXdV_kk9poD1lMgdcqcb/view)
 
 [HTML и CSS.](https://drive.google.com/file/d/1E6m3u1e1VAzcjejIaa50RA36jtG6EcNt/view)
 
-2021
 [HTML и CSS.](https://drive.google.com/file/d/1McteYe5-WWobmR0H6-LnHnhxDnTWXhbI/view)
 ====
 8. ENGLISH(B1)
