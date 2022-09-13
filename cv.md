@@ -42,9 +42,7 @@ GitHub:[sarvanshiriev](http://github.com/sarvanshiriev)
 
 #### Electronic certificates
 [JavaScript.](https://drive.google.com/file/d/1R2HXA4vSTYVadXdV_kk9poD1lMgdcqcb/view)
-
 [HTML и CSS.](https://drive.google.com/file/d/1E6m3u1e1VAzcjejIaa50RA36jtG6EcNt/view)
-
 [HTML и CSS.](https://drive.google.com/file/d/1McteYe5-WWobmR0H6-LnHnhxDnTWXhbI/view)
 ----
-##ENGLISH(B1)
+## ENGLISH(B1)
