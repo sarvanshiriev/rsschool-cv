@@ -13,11 +13,11 @@ HTML; CSS; Figma; Git; JavaScript; GitHub; BEM; Less; Gulp; Pixel Perfect; Adapt
 
 ### Code example:
 ```
-function choiceButton (evt) {
-  const eventTarget = evt.target.closest('.img-filters__button');
-  const buttonActive = imgFilters.querySelector('.img-filters__button--active');
+**function** choiceButton (evt) {
+  **const** eventTarget = evt.target.closest('.img-filters__button');
+  **const** buttonActive = imgFilters.querySelector('.img-filters__button--active');
   buttonActive.classList.remove('img-filters__button--active');
-  if(eventTarget) {
+  **if**(eventTarget) {
     eventTarget.classList.add('img-filters__button--active');
   }
 }
