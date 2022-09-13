@@ -26,7 +26,6 @@ function choiceButton (evt) {
 
 ### Experience:
 Educational projects using technology HTML,CSS,JS,webpack,LESS...
-- GitHub:[sarvanshiriev](http://github.com/sarvanshiriev)
 
 ### Education:
 - "HTML-academy"(Frontend-developer)
